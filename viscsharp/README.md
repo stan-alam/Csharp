@@ -7,3 +7,23 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%202.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%203.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%204.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%205.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%206.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%207.png" width="80%" height="80%">
+</a>
