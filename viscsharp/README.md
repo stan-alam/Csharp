@@ -119,3 +119,33 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/02/vcshrp%20-%2030.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/02/vcshrp%20-%2031.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/02/vcshrp%20-%2032.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/02/vcshrp%20-%2033.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/02/vcshrp%20-%2034.png" width="80%" height="80%">
+</a>
+
+## 03
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/03/vcshrp03%20-%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/03/vcshrp03%20-%202.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/03/vcshrp03%20-%203.png" width="80%" height="80%">
+</a>
