@@ -63,3 +63,19 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%2016.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%2017.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%2018.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%2019.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/images/01/vcshrp%20-%2020.png" width="80%" height="80%">
+</a>
