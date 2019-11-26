@@ -188,7 +188,7 @@ class ThirtyTwoA {
   string south = "S";
   string east = "E";
 
-int void Main() {
+static void Main() {
 
 Console.WriteLine($"The city of Florence, Italy is located at latitude {latidue}{north}
 and longitude{longitude}{east}")
