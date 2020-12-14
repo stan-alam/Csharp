@@ -147,3 +147,11 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/04/images/vcshrp04%20-%20page%2037.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/04/images/vcshrp04%20-%20page%2038.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/04/images/vcshrp04%20-%20page%2039.png" width="80%" height="80%">
+</a>
