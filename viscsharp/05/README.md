@@ -75,3 +75,19 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/master/viscsharp/05/images/vcshrp05%20-%20page%2020.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/master/viscsharp/05/images/vcshrp05%20-%20page%2021.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/master/viscsharp/05/images/vcshrp05%20-%20page%2022.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/master/viscsharp/05/images/vcshrp05%20-%20page%2023.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/master/viscsharp/05/images/vcshrp05%20-%20page%2024.png" width="80%" height="80%">
+</a>
