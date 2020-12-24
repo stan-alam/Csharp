@@ -91,3 +91,29 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/master/viscsharp/05/images/vcshrp05%20-%20page%2024.png" width="80%" height="80%">
 </a>
+
+```cs
+
+class DaysTemp {
+
+  public int High = 90;
+  public int Low  = 50;
+
+}
+
+class Prog {
+
+  static void Main()
+  {
+
+    DaysTemp temp = new DaysTemp();
+
+    temp.High = 83;
+    temp.Low = 23;
+
+    Console.WriteLine("High is " {0}", temp.High");
+    Console.WriteLine($"Low: { temp.Low }");
+    }
+
+}
+```
