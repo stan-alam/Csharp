@@ -120,5 +120,5 @@ class Prog {
 }
 ```
 <a>
-  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/05/images/2020-12-24%2000_57_28-Developer%20Command%20Prompt%20for%20VS%202017.png" width="100%" height="100%">
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/05/images/2020-12-24%2000_57_28-Developer%20Command%20Prompt%20for%20VS%202017.png" width="50%" height="50%">
 </a>
