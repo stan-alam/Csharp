@@ -1,3 +1,5 @@
+using System;
+
 class DaysTemp {
 
   public int High = 90;
@@ -15,7 +17,7 @@ class Prog {
     temp.High = 83;
     temp.Low = 23;
 
-    Console.WriteLine("High is " {0}", temp.High");
+    Console.WriteLine("High is {0}", temp.High);
     Console.WriteLine($"Low: { temp.Low }");
     }
 
