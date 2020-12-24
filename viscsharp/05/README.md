@@ -94,6 +94,8 @@
 
 ```cs
 
+using System;
+
 class DaysTemp {
 
   public int High = 90;
@@ -111,9 +113,12 @@ class Prog {
     temp.High = 83;
     temp.Low = 23;
 
-    Console.WriteLine("High is " {0}", temp.High");
+    Console.WriteLine("High is {0}", temp.High);
     Console.WriteLine($"Low: { temp.Low }");
     }
 
 }
 ```
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/05/images/2020-12-24%2000_57_28-Developer%20Command%20Prompt%20for%20VS%202017.png" width="100%" height="100%">
+</a>
