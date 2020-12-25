@@ -42,3 +42,7 @@ class Prog {
     }
 }
 ```
+
+<p align="center">
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/2020-12-25%2013_54_37-Developer%20Command%20Prompt%20for%20VS%202017.png" width="50%" height="50%">
+</p>
