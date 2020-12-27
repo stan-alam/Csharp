@@ -92,7 +92,7 @@ class D
         d2.SetVars(11, 11); //set d2's values
         d2.Display("d2");
 
-        d1.Display("d1");   //Display d1 again and notice value of static mmember Mem2 has changed!
+        d1.Display("d1");   //Display d1 again and notice value of static member Mem2 has changed!
     }
   }
 }
