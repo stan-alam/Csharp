@@ -173,3 +173,27 @@ class D
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2029.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2030.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2031.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2032.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2033.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2034.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2035.png" width="80%" height="80%">
+</a>
