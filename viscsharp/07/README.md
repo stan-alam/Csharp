@@ -193,7 +193,3 @@ class D
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2034.png" width="80%" height="80%">
 </a>
-
-<a>
-  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2035.png" width="80%" height="80%">
-</a>
