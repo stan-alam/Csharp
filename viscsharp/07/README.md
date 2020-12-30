@@ -499,7 +499,7 @@ class Prog
 {
   static void Main()
   {
-    Class1 c1 = new Class1()
+    Class1 c1 = new Class1();
 
       Console.WriteLine("Values -- To: {0}, T1: {0}", c1[0], c1[1]);
       c1[0] = 11;
