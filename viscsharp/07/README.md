@@ -363,3 +363,29 @@ class MyProg
   }
 }
 ```
+
+```cs
+//cb 162.B
+//using indexed fields
+class Emp
+{
+  public string LastName;
+  public string FirstName;
+  public string CityOfBirth;
+}
+
+class MyProg
+{
+  static void Main()
+  {
+  Emp = emp1 = new Emp;
+
+  emp1[0] = "Doe";
+  emp1[1] = "Jane";
+  emp1[2] = "NYC";
+  Console.WriteLine("{0}", emp1[0]);
+  Console.WriteLine("{0}", emp1[1]);
+  Console.WriteLine("{0}", emp1[2]);
+  }
+}
+```
