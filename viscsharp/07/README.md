@@ -419,3 +419,63 @@ class MyProg
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2072.png" width="80%" height="80%">
 </a>
+
+```cs
+//167.A
+class Emp {
+  public string LastName;      // call this field 0
+  public string FirstName;     //call this field 1
+  public string CityOfBirth;   //call this field2
+
+  public string this[int index]
+  {
+    set
+    {
+      switch (index) {
+        case 0: LastName = value;
+          break;
+        case 1: FirstName = value;
+          break;
+        case 2: CityOfBirth = value;
+          break;
+
+          default:
+            throw new ArgumentOutOfRangeException("index");
+      }
+    }
+
+    get
+    {
+      switch (index) {
+        case 0: return LastName;
+        case 1: return FirstName;
+        case 2: return CityOfBirth;
+
+        default:
+          throw new ArgumentOutOfRangeException("index");
+      }
+    }
+  }
+} //end class Emp
+
+```
+
+```cs
+//169.A
+class MyAwesomeClass
+{
+  public string this [ int index ]
+  {
+    get{...}
+    set{...}
+  }
+
+  public string this [ int index1, index2 ]
+  {
+    get{...}
+    set{...}
+  }
+  ...
+}
+
+```
