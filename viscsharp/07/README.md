@@ -510,6 +510,10 @@ class Prog
 }
 ```
 
+<p align="center">
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/src/2020-12-30%2017_40_26-Developer%20Command%20Prompt%20for%20VS%202017.png" width="75%" height="75%">
+</p>
+
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2076.png" width="80%" height="80%">
 </a>
