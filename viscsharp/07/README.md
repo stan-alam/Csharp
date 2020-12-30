@@ -355,8 +355,8 @@ class MyProg
   Emp = emp1 = new Emp;
 
   emp1.LastName = "Doe";
-  emp2.FirstName = "Jane";
-  emp2.CityOfBirth = "NYC";
+  emp1.FirstName = "Jane";
+  emp1.CityOfBirth = "NYC";
   Console.WriteLine("{0}", emp1.LastName);
   Console.WriteLine("{0}", emp1.FirstName);
   Console.WriteLine("{0}", emp1.CityOfBirth);
