@@ -341,4 +341,25 @@ class Prog
 
 ```cs
 //cb 162.A
+class Emp
+{
+  public string LastName;
+  public string FirstName;
+  public string CityOfBirth;
+}
+
+class MyProg
+{
+  static void Main()
+  {
+  Emp = emp1 = new Emp;
+
+  emp1.LastName = "Doe";
+  emp2.FirstName = "Jane";
+  emp2.CityOfBirth = "NYC";
+  Console.WriteLine("{0}", emp1.LastName);
+  Console.WriteLine("{0}", emp1.FirstName);
+  Console.WriteLine("{0}", emp1.CityOfBirth);
+  }
+}
 ```
