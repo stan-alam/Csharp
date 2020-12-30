@@ -260,6 +260,20 @@ class D
 
 ```cs
 //cb 154.A
+class Class2
+{
+  public Class2(int Value) {...}  //Constructor 0
+  public Class2(String value) {...} //Constructor 1
+}
+
+class Prog
+{
+  static void Main()
+  {
+    Class2 c2 = New Class2(); //**************************ERROR******************************* no constructor with 0 params
+  }
+}
+
 ```
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2049B.png" width="80%" height="80%">
