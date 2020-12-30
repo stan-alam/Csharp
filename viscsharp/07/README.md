@@ -363,6 +363,9 @@ class MyProg
   }
 }
 ```
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2065.png" width="80%" height="80%">
+</a>
 
 ```cs
 //cb 162.B
@@ -389,3 +392,30 @@ class MyProg
   }
 }
 ```
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2066.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2067.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2068.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2069.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2070.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2071.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2072.png" width="80%" height="80%">
+</a>
