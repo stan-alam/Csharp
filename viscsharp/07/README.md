@@ -427,6 +427,7 @@ class MyProg
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2074.png" width="80%" height="80%">
 </a>
+
 ```cs
 //167.A
 class Emp {
@@ -464,7 +465,6 @@ class Emp {
     }
   }
 } //end class Emp
-
 ```
 
 <a>
