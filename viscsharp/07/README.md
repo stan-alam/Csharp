@@ -420,6 +420,13 @@ class MyProg
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2072.png" width="80%" height="80%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2073.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2074.png" width="80%" height="80%">
+</a>
 ```cs
 //167.A
 class Emp {
@@ -459,6 +466,18 @@ class Emp {
 } //end class Emp
 
 ```
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2075.png" width="80%" height="80%">
+</a>
+
+```cs
+//168.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2076.png" width="80%" height="80%">
+</a>
 
 ```cs
 //169.A
