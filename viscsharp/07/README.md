@@ -536,9 +536,12 @@ class MyAwesomeClass
   ...
 }
 ```
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2077.png" width="80%" height="80%">
+</a>
 
 ```cs
-//171.A
+//170.A
 class Person
 {
   public string Name { get; private set; }
@@ -554,21 +557,42 @@ class Prog
   }
 }
 ```
-
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2078A.png" width="80%" height="80%">
+</a>
 
 ```cs
 //171.A
 partial class MyPartClass
 {
-  member1 declaration
-  member2 declaration
-  ...
+//  member1 declaration
+//  member2 declaration
+//  ...
 }
 
 partial class MyPartClass
 {
-  member3 declaration
-  member4 declaration
-  ...
+//  member3 declaration
+//  member4 declaration
+//  ...
 }
 ```
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2078B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2078.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2079.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2080.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2081.png" width="80%" height="80%">
+</a>
