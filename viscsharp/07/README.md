@@ -582,10 +582,6 @@ partial class MyPartClass
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2078.png" width="80%" height="80%">
-</a>
-
-<a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2079.png" width="80%" height="80%">
 </a>
 
