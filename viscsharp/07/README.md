@@ -594,3 +594,35 @@ partial class MyPartClass
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/07/images/viscsharp07%20-%20page%2081.png" width="80%" height="80%">
 </a>
+
+```cs
+//174.A
+
+partial class MyCoolClass
+{
+  partial void PrintSum(int x, int y) //defining partial method
+
+  public void Add(int x, int y)
+  {
+    PrintSum(x, y);    
+  }
+}
+
+partial class MyCoolClass
+{
+  partial void PrintSum(int x, int y) // implementing partial method
+  {
+    Console.WriteLine("The sum is {0}", x + y); //actual implementation
+  }//end partial method
+}
+
+class Prog
+{
+  static void Main()
+  {
+    var mcc = new MyCoolClass();
+    mcc.Add(40, 2);
+  }
+} //end class Prog
+
+```
