@@ -535,5 +535,40 @@ class MyAwesomeClass
   }
   ...
 }
+```
 
+```cs
+//171.A
+class Person
+{
+  public string Name { get; private set; }
+  public Person( String name ) { Name = name; }
+}
+
+class Prog
+{
+  static public void Main()
+  {
+    Person person = new Person("Captain Crunch");
+    Console.WriteLine($"Person's name is {person.Name}");
+  }
+}
+```
+
+
+```cs
+//171.A
+partial class MyPartClass
+{
+  member1 declaration
+  member2 declaration
+  ...
+}
+
+partial class MyPartClass
+{
+  member3 declaration
+  member4 declaration
+  ...
+}
 ```
