@@ -15,6 +15,35 @@
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%204.png" width="80%" height="80%">
 </a>
 
+```cs
+//cb177.A
+class SomeClass
+{
+  public string Field1 = "base class field";
+  public void Method1( string value ) {
+    Console.WriteLine($"Base class --> Method1:  { value } ");
+  }
+} //end SomeClass
+
+class OtherClass : SomeClass {  //derived class
+  public string Field2 = "derived class field";
+  public void Method2( string value ) {
+    Console.WriteLine($"Derived class --> Method2:  { value }");
+  }
+} // end OtherClass
+
+class Prog {
+  static void Main() {
+    OtherClass oc = new OtherClass();
+
+    oc.Method1( oc.Field1 ); //base method with base field
+    oc.Method1( oc.Field2 ); //base method with derived Field
+    oc.Method2( oc.Field1 ); //derived method with base field
+    oc.Method2( oc.Field2 ); //Derived method with derived field
+  }
+}
+
+```
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%205.png" width="80%" height="80%">
 </a>
