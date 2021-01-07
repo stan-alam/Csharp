@@ -101,6 +101,7 @@ class MyBaseClass {   //base class
 class MyDerivedClass : MyBaseClass { //derived class
   override public void Print()
 }
+
 ```
 
 <a>
