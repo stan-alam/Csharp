@@ -92,6 +92,17 @@ class Prog {
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2016_ed.png" width="80%" height="80%">
 </a>
 
+```cs
+//cb184.A
+class MyBaseClass {   //base class
+  virtual public void Print()
+}
+
+class MyDerivedClass : MyBaseClass { //derived class
+  override public void Print()
+}
+```
+
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2017.png" width="80%" height="80%">
 </a>
