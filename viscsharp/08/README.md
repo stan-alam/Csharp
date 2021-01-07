@@ -67,6 +67,37 @@
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2017.png" width="80%" height="80%">
 </a>
 
+```cs
+//cb185.A
+class MyBaseClass
+{
+  virtual public void Print()
+  {
+    Console.WriteLine("This is the base class!");
+  }
+}
+
+class MyDerivedClass : MyBaseClass
+{
+  override public void Print()
+  {
+    Console.WriteLine("This is the derived class.");
+  }
+}
+
+class Prog
+{
+  static void Main()
+  {
+    MyDerivedClass derived = new MyDerivedClass();
+    MyBaseClass mybc       = (MyBaseClass)derived;  //case to base class
+
+    derived.Print();
+    mybc.Print();
+  }
+}
+```
+
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2018.png" width="80%" height="80%">
 </a>
@@ -82,3 +113,24 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2021.png" width="80%" height="80%">
 </a>
+
+```cs
+class SecondDerived : MyDerivedClass
+{
+  override public void Print() {
+    Console.WriteLine("this is the 2nd derived class--");
+  }
+}
+
+class Prog {
+
+  static void Main()
+  {
+    SecondDerived derived = new SecondDerived(); // use SecondDerived
+    MyBaseClass mybc = (MyBaseClass)derived; // use MyBaseClass
+
+    derived.Print();
+    mybc.Print();
+  }
+}
+```
