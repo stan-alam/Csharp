@@ -11,3 +11,20 @@
 * Explore UnitTesting such as MSTest or NUnit
 
 * Maybe dockerize *package the tests with the application? Platform as a service on Azure
+
+```cs
+using System.IO;
+using OpenQA.Selenium.Edge;
+
+string serverPath = "MS Webdriver";
+
+if (System.Environment.Is64BitOperatingSystem)
+{
+  serverPath = Path.Combine(System.Environment.ExpandEnvironmentVariables("%ProgramFiles%"), serverPath);
+}
+
+EdgeOptions options = new EdgeOptions();
+options.PageLoadStrategy = EdgePageLoadStrategy.Eager;
+IWebDriver driver = new EdgeDriver(serverPath, options);
+
+```
