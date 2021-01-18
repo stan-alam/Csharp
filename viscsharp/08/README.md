@@ -94,14 +94,15 @@ class Prog {
 
 ```cs
 //cb184.A
+{
 class MyBaseClass {   //base class
   virtual public void Print()
 }
 
 class MyDerivedClass : MyBaseClass { //derived class
   override public void Print()
-}
-
+  }
+} // md format
 ```
 
 <a>
@@ -175,3 +176,31 @@ class Prog {
   }
 }
 ```
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2022A.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2022B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2023.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2024.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2025.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2026.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/viscsharp/08/images/vischarp08%20-%20page%2027.png" width="80%" height="80%">
+</a>
