@@ -44,3 +44,11 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/OOP/04/images/OOPcs04%20-%20page%207.png" width="50%" height="50%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/OOP/04/images/OOPcs04%20-%20page%208.png" width="50%" height="50%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/OOP/04/images/OOPcs04%20-%20page%209.png" width="50%" height="50%">
+</a>
