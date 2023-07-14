@@ -109,3 +109,15 @@
 <a>
   <img src="https://github.com/stan-alam/Csharp/blob/develop/C_sharp11/images/01/c%2311-01%20-%20page%2029.png" width="80%" height="80%">
 </a>
+
+## 02
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/C_sharp11/images/02/c%2311-02%20-%20page%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/Csharp/blob/develop/C_sharp11/images/02/c%2311-02%20-%20page%202.png" width="80%" height="80%">
+</a>
+
+
