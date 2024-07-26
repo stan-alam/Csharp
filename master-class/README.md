@@ -1,0 +1,738 @@
+You will gain an in-depth understanding of C#.
+You will understand how to write high-performance C# code.
+You will understand the principles of object-oriented programming.
+You will learn the most useful design patterns.
+You will learn to write code of excellent quality.
+You will gain the knowledge necessary for C# job interviews.
+You will practice your skills by solving exercises in the browser, as well as by creating advanced projects.
+You will learn how to use Visual Studio like a pro.
+You will learn how to create unit tests using NUnit and Moq libraries.
+You will learn how to use asynchrony and multithreading.
+Table of Contents
+Introduction
+- [ ] Welcome! Basic information & how to get help
+- [ ] seconds about your instructor
+- [ ] seconds about what this course is
+- [ ] seconds about what this course isn’t
+- [ ] seconds about practicing what you learn
+- [ ] seconds about time optimization
+- [ ] Installing Visual Studio Community
+- [ ] Accessing the code
+- [ ] Resources you can download
+- [ ] Coding exercises issues troubleshooting
+
+C# Fundamentals
+- [ ] Section introduction
+- [ ] Our first C# program
+- [ ] From a text file to an executable program
+- [ ] Programmer’s most important skill
+- [ ] The goal for this section
+- [ ] Variables
+- [ ] Naming variables & introduction to clean code
+- [ ] Variables
+- [ ] Operators
+- [ ] Implicitly typed variables
+- [ ] User input
+- [ ] Debugging with breakpoints
+- [ ] Coding exercises introduction
+- [ ] Variables and operators
+- [ ] Comments
+- [ ] Boolean type. Logical negation, equality, comparison, and modulo operators
+- [ ] Bools & operators
+- [ ] AND and OR logical operators
+- [ ] Boolean type and operators
+- [ ] ifelse conditional statement
+- [ ] ifelse conditional statement
+- [ ] The scope of local variables
+- [ ] Booleans, operators and ifelse conditional statement
+- [ ] Methods – part - [ ] – void methods
+- [ ] Methods – part - [ ] – non-void methods
+- [ ] Methods – AbsoluteOfSum method
+- [ ] Methods – part - [ ] – parameters types and the return type. Static typing in C#
+- [ ] Methods and typing
+- [ ] Parsing a string to an int (int.Parse method)
+- [ ] The first exception
+- [ ] Adding a new project to a solution
+- [ ] Assignments – Introduction
+- [ ] Assignment – Simple Calculator – Description and requirements
+- [ ] Assignment – Simple Calculator – It’s time for you to implement it
+- [ ] Assignment – Simple Calculator – Solution
+- [ ] String interpolation
+- [ ] String interpolation – FormatDate
+- [ ] Switch statement
+- [ ] Switch statement – DescribeDay
+- [ ] Char
+- [ ] A need for loops
+- [ ] While loop – part - [ ]
+- [ ] += and ++ operators. Infinite loops
+- [ ] While loop – part - [ ]
+- [ ] While loop – CalculateSumOfNumbersBetween
+- [ ] Do…while loop
+- [ ] Do-while loop – RepeatCharacter
+- [ ] For loop
+- [ ] For loop – Factorial
+- [ ] Break
+- [ ] Continue
+- [ ] Break and continue
+- [ ] Nested loops
+- [ ] Loops performance
+- [ ] Arrays
+- [ ] Arrays
+- [ ] Arrays (- [ ]) – BuildHelloString
+- [ ] Arrays (- [ ]) – IsWordPresentInCollection
+- [ ] Multi-dimensional arrays
+- [ ] Multi-dimensional arrays – FindMax
+- [ ] Foreach loop
+- [ ] Foreach loop – IsAnyWordLongerThan
+- [ ] Lists
+- [ ] Lists – GetOnlyUpperCaseWords
+- [ ] out keyword
+- [ ] TryParse method
+- [ ] Assignment – TODO List – Description and requirements
+- [ ] Assignment – TODO List – It’s time for you to try to solve it
+- [ ] Assignment – TODO List – Implementation – User options & adding a TODO
+- [ ] Assignment – TODO List – Implementation – Listing and Removing TODOs
+- [ ] Assignment – TODO List – Refactoring
+
+Basics of Object-Oriented Programming
+- [ ] Section introduction
+- [ ] The issues in our code. A need for Object-Oriented Programming
+- [ ] Introduction to object-oriented programming
+- [ ] Understanding OOP with the DateTime type
+- [ ] Basics of OOP
+- [ ] Abstraction
+- [ ] Our first class
+- [ ] Data hiding
+- [ ] Custom constructor
+- [ ] HotelBooking class
+- [ ] C# restrictions on code outside classes. Top-level statements
+- [ ] Adding methods to classes
+- [ ] Basics of classes
+- [ ] Encapsulation
+- [ ] The Triangle class
+- [ ] Methods overloading
+- [ ] Constructors overloading. Calling one constructor from another
+- [ ] Encapsulation & overloading
+- [ ] Expression-bodied methods
+- [ ] this keyword (current instance reference)
+- [ ] Optional parameters
+- [ ] Dog class
+- [ ] Validation of constructor parameters
+- [ ] Readonly and const
+- [ ] Optional parameters and more
+- [ ] Limitations of fields. A need for properties
+- [ ] Properties
+- [ ] Properties of the Order class
+- [ ] Object initializers
+- [ ] Computed properties
+- [ ] Computed properties – DailyAccountState class
+- [ ] Static methods and classes
+- [ ] Static classes – NumberToDayOfWeekTranslator
+- [ ] Static fields, properties and constructors
+- [ ] Properties & static
+- [ ] string.Split and string.Join methods
+- [ ] Single Responsibility Principle – Introduction
+- [ ] Single Responsibility Principle – Refactoring (part - one)
+- [ ] Single Responsibility Principle – Refactoring (part - two)
+- [ ] Single Responsibility Principle – Refactoring (part - three)
+- [ ] Single Responsibility Principle
+- [ ] Files, namespaces and the using directive
+- [ ] Global using directives
+- [ ] Assignment – Dice Roll Game – Description and requirements
+- [ ] Assignment – Dice Roll Game – It’s time for you to try to solve it
+- [ ] Assignment – Dice Roll Game – Random
+- [ ] Assignment – Dice Roll Game – Magic Number Antipattern
+- [ ] Assignment – Dice Roll Game – Designing classes
+- [ ] Assignment – Dice Roll Game – Enums
+- [ ] Assignment – Dice Roll Game – Ternary conditional operator
+
+Object-Oriented Programming Polymorphism, Inheritance, Interfaces
+- [ ] Section introduction
+- [ ] A need for polymorphism
+- [ ] Inheritance
+- [ ] Inheriting members from the base class. Protected access modifier
+- [ ] Basics of polymorphism
+- [ ] Overriding members from the base class. Virtual methods and properties
+- [ ] Virtual methods – practice
+- [ ] Inheritance & Overriding – Animals
+- [ ] Virtual methods – StringsProcessor classes
+- [ ] A deeper inheritance hierarchy
+- [ ] Multiple inheritance
+- [ ] System.Object and the ToString method
+- [ ] Virtual methods and properties
+- [ ] Inheriting constructors and the base keyword
+- [ ] Implicit conversion
+- [ ] Explicit conversion
+- [ ] Conversion
+- [ ] Upcasting and downcasting
+- [ ] is operator
+- [ ] Null
+- [ ] is operator and null object -NumericTypesDescriber class
+- [ ] as operator
+- [ ] Abstract classes
+- [ ] Abstract methods
+- [ ] Abstract methods – Shapes
+- [ ] A need for abstract methods
+- [ ] Sealed classes and methods
+- [ ] Static classes are always sealed
+- [ ] Abstract & sealed
+- [ ] Extension methods
+- [ ] Extension methods – List extensions
+- [ ] A need for interfaces
+- [ ] Interfaces
+- [ ] Interfaces – Applying multiple transformations to a number
+- [ ] Interfaces vs abstract classes
+- [ ] Interfaces
+- [ ] JSON
+- [ ] Assignment – Cookies Cookbook – Description and requirements
+- [ ] Assignment – Cookies Cookbook – It’s time for you to try to solve it
+- [ ] Assignment – Cookies Cookbook – High-level design
+- [ ] Assignment – Cookies Cookbook – Dependency Inversion and Dependency Injection
+- [ ] Assignment – Cookies Cookbook – Designing data types
+- [ ] Assignment – Cookies Cookbook – Printing data object. LINQ
+- [ ] Assignment – Cookies Cookbook – Printing the ingredients
+- [ ] Assignment – Cookies Cookbook – Composing the recipe by the user
+- [ ] Assignment – Cookies Cookbook – Reading and writing from and to a .txt file
+- [ ] Assignment – Cookies Cookbook – Reading and writing from and to a .json file
+- [ ] Assignment – Cookies Cookbook – Template Method Design Pattern
+- [ ] Assignment – Cookies Cookbook – Cleanup and project organizing
+
+Exceptions and error handling
+- [ ] Section introduction
+- [ ] Exception object
+- [ ] Stack trace
+- [ ] Handling exceptions. Try-catch-finally
+- [ ] Try-catch-finally. DivideNumbers
+- [ ] Multiple catch blocks
+- [ ] Basics of exceptions
+- [ ] Throwing exceptions explicitly
+- [ ] Built-in exception types
+- [ ] Built-in exceptions
+- [ ] StackOverflowException. Recursive methods
+- [ ] Precise exceptions
+- [ ] Rethrowing exceptions. throw vs throw ex
+- [ ] Rethrowing exceptions
+- [ ] Rethrowing a System.Exception object
+- [ ] Global try-catch block
+- [ ] Code inside the catch block
+- [ ] Exception filters
+- [ ] Exception handling
+- [ ] Custom exceptions
+- [ ] When to define custom exceptions
+- [ ] Custom exception – InvalidTransactionException
+- [ ] Exceptions as a hidden part of a method signature
+- [ ] Two extreme schools of using exceptions
+- [ ] Smart usage of exceptions – throw
+- [ ] Smart usage of exceptions – catch
+- [ ] Smart usage of exceptions
+- [ ] Assignment – Game Data Parser – Description and requirements
+- [ ] Assignment – Game Data Parser – It’s time for you to try to solve it
+- [ ] Assignment – Game Data Parser – Sunny day scenario
+- [ ] Assignment – Game Data Parser – Flow controlled by exceptions
+- [ ] Assignment – Game Data Parser – Adding details to JsonException
+- [ ] Assignment – Game Data Parser – Custom logger
+- [ ] Assignment – Game Data Parser – Reducing usage of exception
+- [ ] Assignment – Game Data Parser – Refactoring – Extracting methods
+- [ ] Assignment – Game Data Parser – Refactoring – SRP, DI and classes decoupling
+
+Generic types & advanced use of methods
+- [ ] Section introduction
+- [ ] Introduction to generic types
+- [ ] Understanding how List works under the hood
+- [ ] Simplified List (adding a new item)
+- [ ] Simplified List (deleting an item at given index)
+- [ ] A need for generic types. Implementing a generic type
+- [ ] Generic types – Pair class
+- [ ] A need for tuples
+- [ ] Tuples
+- [ ] Generic types introduction
+- [ ] C# without generics. ArrayList
+- [ ] Generic methods
+- [ ] Generic methods with multiple type parameters
+- [ ] Generic methods – SwapTupleItems method
+- [ ] Convert.ChangeType method. typeof keyword and the Type object
+- [ ] Generic types and methods
+- [ ] A need for type constraints
+- [ ] Improving the performance of the List. Measuring the time of the code execution
+- [ ] Type constraints – the constraint on the base type
+- [ ] IComparable interface. Ordering objects
+- [ ] Type constraints – the constraint on the implemented interface
+- [ ] Type constraints & IComparable – SortedList of FullNames
+- [ ] Type constraints – numeric types. Generic math
+- [ ] Type constraints – summary. Multiple type constraints
+- [ ] Type constraints
+- [ ] Advanced use of methods – introduction
+- [ ] Funcs and Actions
+- [ ] Basics of Funcs and Actions
+- [ ] Lambda expressions
+- [ ] Basics of lambda expressions
+- [ ] Delegates
+- [ ] Funcs, lambda expressions and delegates
+- [ ] Dictionary – introduction
+- [ ] Dictionary – practice
+- [ ] Dictionaries – FindMaxWeights of pets
+- [ ] A need for the Strategy design pattern
+- [ ] Refactoring the code using Funcs and lambda expressions
+- [ ] Open-Closed Principle. Strategy design pattern
+- [ ] Generic filtering of collections
+- [ ] Advanced use of generic types
+- [ ] Caching
+- [ ] Assignment – Custom Cache – Description and requirements
+- [ ] Assignment – Custom Cache – It’s time for you to try to solve it
+- [ ] Assignment – Custom Cache – Implementation
+- [ ] Assignment – Custom Cache – The Decorator design pattern
+- [ ] Assignment – Custom Cache – Composing many Decorators together
+
+LINQ
+- [ ] Section introduction
+- [ ] What is LINQ
+- [ ] LINQ and extension methods
+- [ ] LINQ, IEnumerableT and method chaining
+- [ ] Deferred execution
+- [ ] Basics of LINQ
+- [ ] Any
+- [ ] All
+- [ ] Any & All
+- [ ] Count
+- [ ] Contains
+- [ ] Count & Contains
+- [ ] OrderBy
+- [ ] First and Last
+- [ ] OrderBy, First & Last
+- [ ] Where
+- [ ] Distinct
+- [ ] Where & Distinct
+- [ ] Select
+- [ ] Average. Anonymous types
+- [ ] Select & Average
+- [ ] Assignment – Refactoring to LINQ – Description and requirements
+- [ ] Assignment – LINQ Refactoring – It’s time for you to try to solve it
+- [ ] Assignment – Refactoring to LINQ – Nested loop and code readability
+- [ ] Assignment – Refactoring to LINQ – Find and Replace window
+- [ ] Assignment – Refactoring to LINQ – Fewer loops & multiline strings formatting
+- [ ] Assignment – Refactoring to LINQ – Checking if collection has duplicates
+- [ ] If you want to learn more about LINQ
+
+NET under the hood
+- [ ] Section introduction
+- [ ] NET and C#
+- [ ] Common Intermediate Language (CIL)
+- [ ] Common Language Runtime (CLR)
+- [ ] NET basics
+- [ ] Memory of a program. The stack and the heap
+- [ ] Value semantics vs reference semantics
+- [ ] Value types vs reference types
+- [ ] Memory of a program. Value vs reference types
+- [ ] Value types vs reference types – practical tips
+- [ ] ref keyword
+- [ ] ref modifier – FastForwardToSummer
+- [ ] Using ref with reference types
+- [ ] Unified type system. A need for boxing and unboxing
+- [ ] Boxing and unboxing
+- [ ] Boxing and unboxing – performance cost
+- [ ] Boxing and unboxing
+- [ ] Garbage Collector – introduction
+- [ ] Garbage Collector – memory fragmentation and defragmentation
+- [ ] Garbage Collector – the Mark-and-Sweep algorithm
+- [ ] Basics of Garbage Collector and memory management
+- [ ] Garbage Collector – generations of objects
+- [ ] Memory leaks
+- [ ] Finalizers
+- [ ] Garbage Collector and memory management – advanced
+- [ ] Dispose method – introduction
+- [ ] Dispose method – writing to a file using StreamWriter
+- [ ] Dispose method – reading from a file using StreamReader
+- [ ] Dispose method – implementation
+- [ ] Dispose method – AllLinesFromTextFileReader
+- [ ] CSV files
+- [ ] Reading CSV files
+- [ ] Assignment – CSV Processing Improvements – Description and requirements
+- [ ] Assignment – CSV Processing Improvements – It’s time for you to try to solve it
+- [ ] Assignment – CSV Processing Improvements – Code analysis & tips
+- [ ] Assignment – CSV Processing Improvements – Reducing the size of Dictionaries
+- [ ] Assignment – CSV Processing Improvements – Reducing the number of boxings
+- [ ] Assignment – CSV Processing Improvements – Analysis
+
+Advanced C# types
+- [ ] Section introduction
+- [ ] Reflection
+- [ ] Attributes
+- [ ] Attributes – MustBeLargerThanAttribute
+- [ ] Limitations of attributes parameters types
+- [ ] Reflection
+- [ ] Structs
+- [ ] Structs vs Classes – crucial differences
+- [ ] Structs vs Classes – low-level differences
+- [ ] Choosing between structs and classes
+- [ ] Structs
+- [ ] Why should we make structs immutable
+- [ ] Immutable struct – Time
+- [ ] Non-destructive mutation
+- [ ] with expression
+- [ ] Readonly structs
+- [ ] Immutable types
+- [ ] A close look at the System.Object type. The ReferenceEquals method
+- [ ] Equals method
+- [ ] Overriding the Equals method in classes
+- [ ] Overriding the Equals method in structs
+- [ ] Equals – overriding it in the FullName class
+- [ ] IEquatableT interface
+- [ ] == operator
+- [ ] Equality checks
+- [ ] Operators overloading
+- [ ] Overloading of implicit and explicit conversion operators
+- [ ] Operators overloading – Time structs
+- [ ] Hash functions
+- [ ] Default implementation of the GetHashCode method
+- [ ] When to override the GetHashCode method
+- [ ] GetHashCode
+- [ ] Overriding the GetHashCode method
+- [ ] GetHashCode – Time struct
+- [ ] ValueTuples
+- [ ] Benefits of immutable types
+- [ ] Immutable types
+- [ ] Records
+- [ ] Record structs
+- [ ] Records – GpsCoordinates
+- [ ] Nullable value types
+- [ ] Nullable reference types
+- [ ] Null-forgiving operator
+- [ ] Using nullable reference types. Generic type constraints related to nullability
+- [ ] Nullable types
+- [ ] APIs
+- [ ] Querying an API using C#
+- [ ] A class for querying APIs
+- [ ] Assignment – Star Wars Planets Stats – Description and requirements
+- [ ] Assignment – Star Wars Planets Stats – It’s time for you to try to solve it
+- [ ] Assignment – Star Wars Planets Stats – JsonPropertyNameAttribute and DTOs
+- [ ] Assignment – Star Wars Planets Stats – Exceptions handling
+- [ ] Assignment – Star Wars Planets Stats – Type design
+- [ ] Assignment – Star Wars Planets Stats – Converting DTO to a custom type
+- [ ] Assignment – Star Wars Planets Stats – Finishing the app and the MaxBy method
+- [ ] Assignment – Star Wars Planets Stats – Refactoring
+- [ ] Assignment – Star Wars Planets Stats – Splitting the class
+- [ ] Assignment – Star Wars Planets Stats – Universal table printer
+
+Collections
+- [ ] Section introduction
+- [ ] The role of the IEnumerable interface
+- [ ] A close look at the IEnumerable interface
+- [ ] Implementing IEnumerable
+- [ ] Implicit and explicit interface implementation
+- [ ] Implementing IEnumerableT
+- [ ] IEnumerable & interfaces implementation
+- [ ] Indexers
+- [ ] ValueTuples & Custom indexer – PairOfArrays
+- [ ] Collection initializers
+- [ ] ICollection and IList interfaces
+- [ ] Breaking the Interface Segregation Principle
+- [ ] Interface Segregation Principle
+- [ ] The benefits of readonly collections
+- [ ] Readonly collections. ReadOnlyCollection and ReadOnlyDictionary
+- [ ] Collections – advanced topics
+- [ ] Big O Notation
+- [ ] Binary search algorithm
+- [ ] Binary search algorithm – implementation
+- [ ] Binary search algorithm – complexity
+- [ ] Complexity of algorithms
+- [ ] Improving performance when using Lists
+- [ ] Linked list
+- [ ] Linked list vs List
+- [ ] Dictionaries under the hood
+- [ ] Performance of Dictionaries
+- [ ] Performance of collections
+- [ ] HashSet
+- [ ] HashSet – CreateUnion method
+- [ ] Queue
+- [ ] Stack
+- [ ] params keyword
+- [ ] params keyword – Does Stack contain any of the given words
+- [ ] A need for yield statement
+- [ ] yield statement – behavior analysis
+- [ ] yield statement and iterators
+- [ ] yield statement – practice. yield break statement
+- [ ] yield statement – GetAllAfterLastNullReversed method
+- [ ] Implementing IEnumerable interface using iterators
+- [ ] Assignment – Custom Linked List – Description and requirements
+- [ ] Assignment – Custom Linked List – It’s time for you to try to solve it
+- [ ] Assignment – Custom Linked List – Data structures
+- [ ] Assignment – Custom Linked List – The AddToFront method
+- [ ] Assignment – Custom Linked List – Implementing IEnumerable
+- [ ] Assignment – Custom Linked List – Adding new items at the end of the list
+- [ ] Assignment – Custom Linked List – The Clear method
+- [ ] Assignment – Custom Linked List – Removing items and the Contains method
+- [ ] Assignment – Custom Linked List – The CopyTo method
+- [ ] Assignment – Custom Linked List – Summary and performance. Private classes
+
+Projects, assemblies, solutions
+- [ ] Section introduction
+- [ ] Projects and solutions
+- [ ] Project properties
+- [ ] Debug build vs Release build
+- [ ] Projects and solutions
+- [ ] Assemblies
+- [ ] Referencing types from another assembly
+- [ ] Referencing types from another project
+- [ ] Internal access modifier. Principles of using access modifiers
+- [ ] Protected internal access modifier
+- [ ] Private protected access modifier
+- [ ] Access modifiers – summary
+- [ ] Access modifiers
+- [ ] How to structure the code in a solution
+- [ ] NuGet
+- [ ] csproj files
+- [ ] sln files
+- [ ] Updating the .NET version
+
+Strings
+- [ ] Section introduction
+- [ ] Char
+- [ ] Char representation in memory. Character encoding
+- [ ] Managing various encodings
+- [ ] Chars and encoding
+- [ ] Immutability of strings
+- [ ] Strings – value or reference types
+- [ ] Strings as members in structs
+- [ ] Strings
+- [ ] A need for StringBuilder
+- [ ] StringBuilder
+- [ ] StringBuilder – The Reverse method
+- [ ] String interning
+- [ ] Flyweight design pattern
+- [ ] Advanced string formatting
+- [ ] Culture-specific string formatting
+- [ ] Specific culture vs Invariant culture
+- [ ] Advanced features of strigs
+- [ ] Assignment – Tickets Data Aggregator – Description and requirements
+- [ ] Assignment – Tickets Data Aggregator – It’s time for you to try to solve it
+- [ ] Assignment – Tickets Data Aggregator – Reading text from PDF
+- [ ] Assignment – Tickets Data Aggregator – List all PDFs from a folder
+- [ ] Assignment – Tickets Data Aggregator – Splitting a string by multiple separators
+- [ ] Assignment – Tickets Data Aggregator – Parsing culture-specific strings
+- [ ] Assignment – Tickets Data Aggregator – Saving result in a text file
+- [ ] Assignment – Tickets Data Aggregator – Refactoring
+- [ ] Assignment – Tickets Data Aggregator – Compliance with the SRP
+
+Numeric types
+- [ ] Section introduction
+- [ ] Decimal number system
+- [ ] Binary number system
+- [ ] Maximal numbers on a given number of digits
+- [ ] Binary number system
+- [ ] Numbers in memory. Integer
+- [ ] Adding binary numbers
+- [ ] Numeric overflow & silent failures
+- [ ] Numbers in memory
+- [ ] checked keyword
+- [ ] Checked context – when to use it
+- [ ] Scope of the checked context. unechecked keyword
+- [ ] Checked – Fibonacci sequence
+- [ ] Integral numeric types overview
+- [ ] Floating-point numbers
+- [ ] double and float
+- [ ] Smart usage of binary floating point numbers
+- [ ] Floating point numbers – The IsAverageEqualTo method
+- [ ] Decimal
+
+Events
+- [ ] Section introduction
+- [ ] A need for communication between objects
+- [ ] A need for the Observer design pattern
+- [ ] Observer design pattern
+- [ ] Defining an event and subscribing to it
+- [ ] Raising events
+- [ ] Events – User and BankAccount
+- [ ] EventHandler delegate & EventArgs type
+- [ ] Observer design pattern & basics of events
+- [ ] Event vs delegate members
+- [ ] Memory leaks caused by events
+- [ ] Events – WeatherDataAggregator
+- [ ] Windows Forms – introduction
+- [ ] The first Windows Forms app
+- [ ] Understanding Windows Forms files
+- [ ] Events in Windows Forms
+- [ ] Windows Forms – basic UI elements
+- [ ] Assignment – Numeric Types Suggester – Description and requirements
+- [ ] Assignment – Numeric Types Suggester – It’s time for you to try to solve it
+- [ ] Assignment – Numeric Types Suggester – User Interface & basic events
+- [ ] Assignment – Numeric Types Suggester – Handling KeyPress event
+- [ ] Assignment – Numeric Types Suggester – Numbers validation and BigInteger type
+- [ ] Assignment – Numeric Types Suggester – Choosing numeric type
+
+Unit Testing
+- [ ] Section introduction
+- [ ] Manual tests vs Automated tests
+- [ ] Setting up the testing environment
+- [ ] First unit tests
+- [ ] Unit testing fundamentals
+- [ ] Running the tests
+- [ ] Naming unit tests
+- [ ] Test messages
+- [ ] AAA pattern
+- [ ] Valuable tests
+- [ ] TestCase
+- [ ] Naming parameterized tests
+- [ ] TestCaseSource
+- [ ] Test cases
+- [ ] Assertions on exceptions. Multiple assertions in single test
+- [ ] Value of unit tests
+- [ ] Basic assertions
+- [ ] Assertions
+- [ ] Testing private methods
+- [ ] Testing internal methods
+- [ ] Benefits of unit tests – no fear of refactoring
+- [ ] Benefits of unit tests – better design
+- [ ] Benefits of unit tests – early bug detection
+- [ ] Downsides of unit tests
+- [ ] Upsides and downsides of unit tests
+- [ ] Assignment – Fibonacci generator tests – Description and requirements
+- [ ] Assignment – Fibonacci generator tests – solution
+- [ ] Testing classes depending on other classes
+- [ ] A need for mocks
+- [ ] Mocks
+- [ ] Controlling the mock behavior
+- [ ] Basics of mocks
+- [ ] The benefits of using mocks
+- [ ] Advanced mock setup
+- [ ] Assertions checking if a method was called
+- [ ] Advanced assertions on method calls
+- [ ] Usage of mocks
+- [ ] Clean code in unit tests
+- [ ] Common setup for tests
+- [ ] Tests, Dependency Inversion and Dependency Injection
+- [ ] Untestable code – no Dependency Inversion
+- [ ] Untestable code – static methods
+- [ ] Unit tests quality and code testability
+- [ ] Other kinds of software tests
+- [ ] Different types of tests
+- [ ] Assignment – Unit tests for GuessingGame – Description and requirements
+- [ ] Assignment – Unit tests for GuessingGame – Basic scenarios
+- [ ] Assignment – Unit tests for GuessingGame – Verifying messages
+- [ ] Assignment – Unit tests for GuessingGame – Approaches for messages validation
+- [ ] Assignment – Unit tests for GuessingGame – Resource files
+- [ ] Breaking changes in NUnit - [ ]
+
+Clean Code
+- [ ] Section introduction
+- [ ] The importance of clean code
+- [ ] Bad decisions related to code quality
+- [ ] Tech debt
+- [ ] Being professional
+- [ ] What is clean code
+- [ ] The importance of clean code
+- [ ] The importance of meaningful names
+- [ ] Renaming. The Boy Scout Rule
+- [ ] Dealing with problematic naming
+- [ ] Naming fundamentals
+- [ ] Expressive names
+- [ ] Long and short names
+- [ ] Clean Code – Coding Exercises introduction
+- [ ] Naming refactoring – Reverse method
+- [ ] Principle of the least surprise
+- [ ] Good naming
+- [ ] Bad names – meaningless words
+- [ ] Bad names – overspecific names
+- [ ] Bad names – Hungarian notation
+- [ ] Bad names – confusing names
+- [ ] Bad names – abbreviations
+- [ ] Bad names
+- [ ] Reasonable abbreviations. Conventional names
+- [ ] Context
+- [ ] Naming refactoring – Building file path based on DateTime
+- [ ] Refactoring case study – naming
+- [ ] Good signatures of methods
+- [ ] Number of parameters
+- [ ] Fewer parameters – splitting the method
+- [ ] Fewer parameters – bundling related parameters
+- [ ] Fewer parameters – avoiding boolean parameters
+- [ ] Signatures
+- [ ] Small methods
+- [ ] Method refactoring – ChooseBetterPath method
+- [ ] One method, one job
+- [ ] One method, one job – refactoring
+- [ ] Levels of abstraction
+- [ ] Composing different levels of abstraction
+- [ ] Levels of abstraction within methods
+- [ ] Methods
+- [ ] Refactoring case study – methods – introduction
+- [ ] Refactoring case study – methods – signature
+- [ ] Refactoring case study – methods – body
+- [ ] Comments
+- [ ] Method refactoring – IsNameValid method
+- [ ] The worst comments
+- [ ] The reasonable comments
+- [ ] Comments
+- [ ] When to make methods static Private methods
+- [ ] The risk of making public methods static
+- [ ] When to make methods static Public methods
+- [ ] The issues of static methods
+- [ ] Composition over inheritance
+- [ ] The issues of inheritance
+- [ ] Replacing inheritance with composition
+- [ ] The benefits of composition
+- [ ] Composition over inheritance
+- [ ] Assignment – Password Generator Refactoring – Description and requirements
+- [ ] Assignment – Password Generator Refactoring – Explaining the existing code
+- [ ] Assignment – Password Generator Refactoring – Fixing naming
+- [ ] Assignment – Password Generator Refactoring – Improving design
+
+Multithreading & asynchrony
+- [ ] Section introduction
+- [ ] The computer’s processor
+- [ ] Threads and processes
+- [ ] Concurrency vs parallelism
+- [ ] Asynchrony
+- [ ] Multithreading basics
+- [ ] A single-threaded program
+- [ ] Starting a new thread. The Thread class
+- [ ] Multithreaded app’s code flow
+- [ ] Creating and starting new threads
+- [ ] The benefits of multithreading and asynchronous programming
+- [ ] The cost of threads. ThreadPool
+- [ ] Threads
+- [ ] Task Parallel Library (TPL)
+- [ ] Task class
+- [ ] Returning a value from a Task
+- [ ] Waiting for the Task result
+- [ ] Wait and WaitAll methods
+- [ ] Tasks & waiting
+- [ ] Continuations. The ContinueWith method
+- [ ] Chaining continuations. Continuations of multiple tasks
+- [ ] Continuations
+- [ ] Canceling a Task
+- [ ] Task lifecycle
+- [ ] OperationCanceledException
+- [ ] Exceptions thrown by other threads
+- [ ] Exceptions in tasks
+- [ ] Asynchronous exception handling
+- [ ] Handling AggregateException
+- [ ] Handling exceptions with continuations
+- [ ] Multiple continuations for one task
+- [ ] Handling task cancellation
+- [ ] The need for synchronization
+- [ ] Atomic operations
+- [ ] Race condition
+- [ ] Locks
+- [ ] Synchronization
+- [ ] The need for asyncawait
+- [ ] await keyword
+- [ ] Async methods
+- [ ] asyncawait
+- [ ] Asynchrony vs multithreading
+- [ ] The flow of an asynchronous program
+- [ ] Asyncawait and threads
+- [ ] Asyncawait summary
+- [ ] Asyncawait practice
+- [ ] Asyncawait
+- [ ] Exceptions in async methods
+- [ ] Downsides of multithreading & asynchrony
+- [ ] Using async methods in practice. HttpClient
+- [ ] Assignment – Quote Finder – Description and requirements
+- [ ] Assignment – Quote Finder – Fetching data
+- [ ] Assignment – Quote Finder – Smart asynchrony
+- [ ] Assignment – Quote Finder – Single-threaded processing
+- [ ] Assignment – Quote Finder – Multi-threaded processing
+- [ ] Assignment – Quote Finder – Refactoring
+
+Bonus section
+- [ ] Bonus lecture
