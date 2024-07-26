@@ -1,3 +1,7 @@
+# Master C# udemy course
+## this course is 47 hours long, so should take about 3 months to complete
+
+```ascii
 You will gain an in-depth understanding of C#.
 You will understand how to write high-performance C# code.
 You will understand the principles of object-oriented programming.
@@ -8,6 +12,7 @@ You will practice your skills by solving exercises in the browser, as well as by
 You will learn how to use Visual Studio like a pro.
 You will learn how to create unit tests using NUnit and Moq libraries.
 You will learn how to use asynchrony and multithreading.
+```
 Table of Contents
 Introduction
 - [ ] Welcome! Basic information & how to get help
@@ -45,10 +50,10 @@ C# Fundamentals
 - [ ] ifelse conditional statement
 - [ ] The scope of local variables
 - [ ] Booleans, operators and ifelse conditional statement
-- [ ] Methods – part - [ ] – void methods
-- [ ] Methods – part - [ ] – non-void methods
+- [ ] Methods – part - [1] – void methods
+- [ ] Methods – part - [2] – non-void methods
 - [ ] Methods – AbsoluteOfSum method
-- [ ] Methods – part - [ ] – parameters types and the return type. Static typing in C#
+- [ ] Methods – part - [3] – parameters types and the return type. Static typing in C#
 - [ ] Methods and typing
 - [ ] Parsing a string to an int (int.Parse method)
 - [ ] The first exception
@@ -63,9 +68,9 @@ C# Fundamentals
 - [ ] Switch statement – DescribeDay
 - [ ] Char
 - [ ] A need for loops
-- [ ] While loop – part - [ ]
+- [ ] While loop – part - [1]
 - [ ] += and ++ operators. Infinite loops
-- [ ] While loop – part - [ ]
+- [ ] While loop – part - [2]
 - [ ] While loop – CalculateSumOfNumbersBetween
 - [ ] Do…while loop
 - [ ] Do-while loop – RepeatCharacter
@@ -78,8 +83,8 @@ C# Fundamentals
 - [ ] Loops performance
 - [ ] Arrays
 - [ ] Arrays
-- [ ] Arrays (- [ ]) – BuildHelloString
-- [ ] Arrays (- [ ]) – IsWordPresentInCollection
+- [ ] Arrays (- [1]) – BuildHelloString
+- [ ] Arrays (- [2]) – IsWordPresentInCollection
 - [ ] Multi-dimensional arrays
 - [ ] Multi-dimensional arrays – FindMax
 - [ ] Foreach loop
