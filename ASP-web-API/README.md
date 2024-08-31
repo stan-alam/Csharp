@@ -1,6 +1,6 @@
--[x]Set up your environment with VS 2022, Node, Git, and more
--[ ]Create a ASP.NET Core project from scratch
--[ ]Integrate with SQL Server
+- [x] Set up your environment with VS 2022, Node, Git, and more
+- [ ] Create a ASP.NET Core project from scratch
+- [ ] Integrate with SQL Server
 Use Entity Framework Core to set up a data model
 Create back-end controllers
 Design an API to serve data
