@@ -8,12 +8,7 @@ class Program
 	int counter = 1;
 	while(true)
 	{
-		Console.WriteLine($"Print line number {counter}");
-		counter++;
-		Task delayTask = Task.Run(async () => await Task.
-		Delay(1000));
-		delayTask.Wait();
-	}
+	Console.WriteLine($
     }    
 }
 // $ dotnet new console -n stanTest -o stanTest --use-program-main
