@@ -1,0 +1,14 @@
+﻿using System.Threading.Tasks;
+namespace stanTest;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+	int counter = 1;
+	while(true)
+	{
+	Console.WriteLine($
+    }    
+}
+// $ dotnet new console -n stanTest -o stanTest --use-program-main
