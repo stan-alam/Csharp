@@ -7,3 +7,4 @@ class Program
         Console.WriteLine("Hello, Multiverse(s)");
     }
 }
+// $ dotnet new console -n stanTest -o stanTest --use-program-main
