@@ -1,0 +1,109 @@
+- [] How the Companion Projects works
+- [] Common Errors and how to solve them
+- [] Programming Basics
+- [] Variables
+- [] Variables Companion Project Walkthrough
+- [] Data Types
+- [] If Statements, Conditions
+- [] Switch
+- [] Functions
+- [] Scope
+- [] Comments
+- [] Arrays, Lists
+- [] Loops
+- [] Class
+- [] Static
+- [] Access Modifiers
+- [] Naming Rules
+- [] Clean Code Guidelines
+- [] Beginner Project
+- [] Beginner Summary
+- [] Welcome Beginner Projects
+- [] FizzBuzz
+- [] FizzBuzz Walkthrough
+- [] Number Guessing Game
+- [] Number Guessing Game Walkthrough
+- [] Rock Paper Scissors
+- [] Rock Paper Scissors Walkthrough
+- [] Quiz
+- [] Quiz Walkthrough
+- [] Calculator
+- [] Calculator Walkthrough
+- [] Hangman
+- [] Hangman Walkthrough
+- [] To-Do List
+- [] To-Do List Walkthrough
+- [] Mad Libs
+- [] Mad Libs Walkthrough
+- [] Password Generator
+- [] Password Generator Walkthrough
+- [] Palindrome Checker
+- [] Palindrome Checker Walkthrough
+- [] Congratulations Beginner Projects
+- [] Intro Intermediate
+- [] Intermediate Overview
+- [] Visual Studio Shortcuts
+- [] Refactoring
+- [] Enums
+- [] Properties
+- [] Multidimensional Arrays
+- [] Nested Loops
+- [] Recursion
+- [] Dictionary
+- [] Other Collections
+- [] params
+- [] Optional Parameters
+- [] Value Type vs Reference Types
+- [] Struct
+- [] Class Intermediate
+- [] Interfaces
+- [] Type casting, is, as
+- [] Switch Pattern Matching
+- [] Delegates
+- [] Local Function vs Lambda
+- [] Events
+- [] Generics
+- [] Constants, readonly
+- [] Exceptions, Try Catch Finally
+- [] IEnumerable
+- [] Namespaces
+- [] Singleton Pattern
+- [] Design Patterns
+- [] Intermediate Project
+- [] Intermediate Summary
+- [] Advanced Overview
+- [] Reflection
+- [] Function Extensions
+- [] Static Constructor
+- [] typeof
+- [] nameof
+- [] sizeof
+- [] default
+- [] Expression-bodied Members
+- [] Records
+- [] Null Conditional Operators
+- [] Null-Coalescing Operators
+- [] Ternary Conditional Operator
+- [] Main and Command Line Args
+- [] Nullable
+- [] Span
+- [] Bitwise Operators
+- [] Enum Flags
+- [] Preprocessor Directives
+- [] ref, out, in
+- [] Data Boxing
+- [] dynamic
+- [] Class Indexer
+- [] Attributes
+- [] Anonymous Types
+- [] Tuples
+- [] using, IDisposable
+- [] Override Operators
+- [] LINQ
+- [] WinForms
+- [] DLLImport, extern, WinAPI
+- [] Asserts, Unit Testing
+- [] unsafe, pointers
+- [] async await Task
+- [] Multithreading
+- [] Advanced Summary
