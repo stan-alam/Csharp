@@ -1,6 +1,6 @@
 ## Patterns in Unity
 
-- [ ]Understand the SOLID principles and why coupling causes pain
+- [ ] Understand the SOLID principles and why coupling causes pain
 Implement the Singleton pattern and a reusable generic base class
 Use the Observer pattern with C# events to decouple your systems
 Build a flexible Command pattern with an executor and new commands
